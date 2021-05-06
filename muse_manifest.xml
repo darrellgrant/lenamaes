@@ -1,0 +1,141 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lenawebpage_2.com" resolutions="1x" timestamp="1557172778149">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3823830290" ref="today-s-special:supper-menu:index:lunch-menu:order-form:contact:video"/>
+    <file name="today-s-special.css" crc="4006016851" ref="today-s-special"/>
+    <file name="supper-menu.css" crc="323977817" ref="supper-menu"/>
+    <file name="index.css" crc="4190954194" ref="index"/>
+    <file name="lunch-menu.css" crc="3805599640" ref="lunch-menu"/>
+    <file name="order-form.css" crc="4181627418" ref="order-form"/>
+    <file name="contact.css" crc="96791667" ref="contact"/>
+    <file name="video.css" crc="15849540" ref="video"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video"/>
+    <file name="museutils.js" crc="340535759" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video"/>
+    <file name="require.js" crc="7928878" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video"/>
+    <file name="webpro.js" crc="4059564322" ref="contact:order-form"/>
+    <file name="form_check.php" crc="4020933626" ref="order-form"/>
+    <file name="form_throttle.php" crc="4259590256" ref="order-form"/>
+    <file name="form_process.php" crc="37464564" ref="order-form"/>
+    <file name="form-u727.php" crc="305997020" ref="contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="order-form"/>
+    <file name="form-u856.php" crc="411852109" ref="order-form"/>
+  </folder>
+  <folder name="images">
+    <file name="lena mae logo.png" crc="343943973" seo="true" ref="index:lunch-menu:supper-menu:order-form:today-s-special:contact:video">
+      <caption webpage="lunch-menu" alt=""/>
+      <caption webpage="delivery" alt=""/>
+      <caption webpage="today-s-special" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="supper-menu" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="lena3.jpg" crc="4031039380" seo="true" ref="lunch-menu">
+      <caption webpage="lunch-menu" alt=""/>
+    </file>
+    <file name="country cafe logo.png" crc="4267234077" seo="true" ref="index:lunch-menu:supper-menu:today-s-special:order-form:contact:video">
+      <caption webpage="lunch-menu" alt=""/>
+      <caption webpage="today-s-special" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="supper-menu" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="u812-4.png" crc="4240683585" ref="lunch-menu"/>
+    <file name="u819-4.png" crc="3979728897" ref="supper-menu"/>
+    <file name="badge.png" crc="16287707" seo="true" ref="order-form">
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="u853-4.png" crc="160802607" ref="order-form"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="order-form">
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="order-form">
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="order-form">
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="order-form">
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="order-form">
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="order-form">
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="u827-4.png" crc="384699129" ref="contact"/>
+    <file name="lena2-crop-u1226.jpg" crc="3864341483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blackboard-crop-u1210.jpg" crc="111827074" seo="true" ref="today-s-special">
+      <caption webpage="today-s-special" alt=""/>
+    </file>
+    <file name="lena1-crop-u1249.jpg" crc="3928334515" seo="true" ref="supper-menu">
+      <caption webpage="supper-menu" alt=""/>
+    </file>
+    <file name="twitter.png" crc="3826690872" seo="true" ref="index:lunch-menu:supper-menu:today-s-special:order-form:contact:video">
+      <caption webpage="lunch-menu" alt=""/>
+      <caption webpage="today-s-special" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="supper-menu" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="facebook.png" crc="3799635864" seo="true" ref="index:lunch-menu:supper-menu:today-s-special:order-form:contact:video">
+      <caption webpage="lunch-menu" alt=""/>
+      <caption webpage="today-s-special" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="supper-menu" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="153419646" seo="true" ref="index:lunch-menu:supper-menu:today-s-special:order-form:contact:video">
+      <caption webpage="lunch-menu" alt=""/>
+      <caption webpage="today-s-special" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="supper-menu" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="u830-9.png" crc="535341126" ref="index:lunch-menu:supper-menu:today-s-special:order-form:contact:video"/>
+    <file name="u793-4.png" crc="500067039" ref="index"/>
+    <file name="coffee-lena-mae.gif" crc="4270941078" seo="true" ref="index:lunch-menu:supper-menu:today-s-special:order-form:contact:video">
+      <caption webpage="lunch-menu" alt=""/>
+      <caption webpage="today-s-special" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="supper-menu" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="order-form" alt=""/>
+    </file>
+    <file name="u799-18.png" crc="4280354502" ref="lunch-menu"/>
+    <file name="u818-17.png" crc="111860229" ref="supper-menu"/>
+    <file name="u824-12.png" crc="4288354827" ref="today-s-special"/>
+  </folder>
+  <file name="index.html" crc="4222543318" seo="true" mt="1557172412777" redirect="true"/>
+  <file name="lunch-menu.html" crc="3843336912" seo="true" mt="1557171170273" redirect="true"/>
+  <file name="supper-menu.html" crc="4194758756" seo="true" mt="1557171264566" redirect="true"/>
+  <file name="order-form.html" crc="3906403546" seo="true" mt="1557169825194" redirect="true"/>
+  <file name="today-s-special.html" crc="302686896" seo="true" mt="1557169134049" redirect="true"/>
+  <file name="contact.html" crc="4260899278" seo="true" mt="1557165615806" redirect="true"/>
+  <file name="video.html" crc="119043035" seo="true" mt="1557165615806" redirect="true"/>
+</manifest>
